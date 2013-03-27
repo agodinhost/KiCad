@@ -1,6 +1,6 @@
-update=25/03/2013 16:34:32
+update=26/03/2013 22:28:25
 version=1
-last_client=kicad
+last_client=eeschema
 [cvpcb]
 version=1
 NetITyp=0
@@ -77,6 +77,8 @@ LibName7=display
 LibName8=valves
 LibName9=led
 LibName10=dip_sockets
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=
@@ -116,7 +118,6 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=arduino
-LibName32=ghkb
-[general]
-version=1
+LibName31=lib/open-project
+LibName32=lib/arduino
+LibName33=lib/ghkb

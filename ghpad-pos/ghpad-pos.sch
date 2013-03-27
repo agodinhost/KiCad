@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 26/03/2013 00:02:38
+EESchema Schematic File Version 2  date 26/03/2013 22:31:12
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -29,6 +29,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:open-project
 LIBS:arduino
 LIBS:ghkb
 LIBS:ghpad-pos-cache
@@ -38,7 +39,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "26 mar 2013"
+Date "27 mar 2013"
 Rev ""
 Comp ""
 Comment1 ""
