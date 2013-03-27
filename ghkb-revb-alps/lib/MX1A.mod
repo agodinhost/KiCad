@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  24/03/2013 21:48:03
+PCBNEW-LibModule-V1  25/03/2013 00:00:20
 # encoding utf-8
 Units mm
 $INDEX
@@ -444,7 +444,7 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE MXST
 $MODULE SKCM-a
-Po 0 0 0 15 514F9D9F 00000000 ~~
+Po 0 0 0 15 514FBDC0 00000000 ~~
 Li SKCM-a
 Sc 0
 AR switch_mx3
@@ -470,18 +470,19 @@ Ne 0 ""
 Po -2.5 -4
 $EndPAD
 $PAD
-Sh "2" R 1.5 2 0 0 0
+Sh "" R 1.5 2 0 0 0
 Dr 0 0 0
-At SMD N 00888000
+At HOLE N 00E0FFFF
 Ne 0 ""
 Po 2.4765 -6.477
 $EndPAD
 $PAD
-Sh "1" R 1.5 2 0 0 0
+Sh "" R 1.5 2 0 0 0
 Dr 0 0 0
-At SMD N 00888000
+At HOLE N 00E0FFFF
 Ne 0 ""
 Po -2.54 -2.032
+.ZoneConnection 0
 $EndPAD
 $EndMODULE SKCM-a
 $EndLIBRARY
