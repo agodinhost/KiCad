@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 24/03/2013 22:49:59
+EESchema Schematic File Version 2  date Wed 06 Mar 2013 09:44:42 PM CET
 LIBS:power
 LIBS:mx1a-simple
 LIBS:aker
@@ -7,6 +7,7 @@ LIBS:dtsjw
 LIBS:oupiin_usb
 LIBS:device
 LIBS:conn
+LIBS:keyboard-cache
 EELAYER 27 0
 EELAYER END
 $Descr A4 11693 8268

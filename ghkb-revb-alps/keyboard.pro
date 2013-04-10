@@ -1,4 +1,4 @@
-update=Fri 02 Nov 2012 10:30:35 AM CET
+update=10/04/2013 19:09:37
 version=1
 last_client=pcbnew
 [general]
@@ -31,19 +31,22 @@ EquName1=devcms
 [pcbnew]
 version=1
 LastNetListRead=
-PadDrill=3.9802
-PadSizeH=3.9802
-PadSizeV=3.9802
-PcbTextSizeV=2.032
-PcbTextSizeH=1.524
-PcbTextThickness=0.3048
-ModuleTextSizeV=1.524
-ModuleTextSizeH=1.524
-ModuleTextSizeThickness=0.3048
-SolderMaskClearance=0.1016
-DrawSegmentWidth=0.381
-BoardOutlineThickness=0.09906
-ModuleOutlineThickness=0.3
+UseCmpFile=1
+PadDrill=3.980200000000
+PadDrillOvalY=3.980200000000
+PadSizeH=3.980200000000
+PadSizeV=3.980200000000
+PcbTextSizeV=2.032000000000
+PcbTextSizeH=1.524000000000
+PcbTextThickness=0.304800000000
+ModuleTextSizeV=1.524000000000
+ModuleTextSizeH=1.524000000000
+ModuleTextSizeThickness=0.304800000000
+SolderMaskClearance=0.101600000000
+SolderMaskMinWidth=0.000000000000
+DrawSegmentWidth=0.381000000000
+BoardOutlineThickness=0.099060000000
+ModuleOutlineThickness=0.300000000000
 [pcbnew/libraries]
 LibDir=lib
 LibName1=MX1A
