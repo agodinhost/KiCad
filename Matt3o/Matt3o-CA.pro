@@ -1,5 +1,5 @@
-update=16/04/2013 22:21:32
-last_client=pcbnew
+update=21/04/2013 23:45:42
+last_client=kicad
 [cvpcb]
 version=1
 NetIExt=net
@@ -35,3 +35,5 @@ ModuleOutlineThickness=0.381000000000
 [pcbnew/libraries]
 LibDir=
 LibName1=footprints
+[general]
+version=1
