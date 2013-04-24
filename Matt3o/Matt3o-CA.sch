@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 22/04/2013 01:50:13
+EESchema Schematic File Version 2  date 24/04/2013 18:35:39
 LIBS:components
 LIBS:Matt3o-CA-cache
 EELAYER 27 0
@@ -7,7 +7,7 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "22 apr 2013"
+Date "24 apr 2013"
 Rev ""
 Comp ""
 Comment1 ""
@@ -1608,8 +1608,6 @@ F 3 "~" H 3850 7700 60  0000 C CNN
 	1    3850 7700
 	1    0    0    -1  
 $EndComp
-NoConn ~ 6550 7250
-NoConn ~ 6550 7350
 $Comp
 L VCC #PWR02
 U 1 1 516B266D
@@ -2927,4 +2925,14 @@ Wire Wire Line
 	6550 7650 7250 7650
 Wire Wire Line
 	6550 7550 7250 7550
+Wire Wire Line
+	6550 7250 6800 7250
+Wire Wire Line
+	6550 7350 6800 7350
+Text Label 6600 7250 0    60   ~ 0
+NU1
+Text Label 6600 7350 0    60   ~ 0
+NU2
+NoConn ~ 6800 7250
+NoConn ~ 6800 7350
 $EndSCHEMATC

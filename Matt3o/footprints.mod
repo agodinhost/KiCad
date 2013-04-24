@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  18/04/2013 14:28:48
+PCBNEW-LibModule-V1  24/04/2013 15:31:32
 # encoding utf-8
 Units mm
 $INDEX
@@ -47,6 +47,7 @@ SMD0805D
 TEENSY_2.0
 TQFP44
 USB_mini
+hole-round
 pinHeader-2x1
 pinHeader-3x1
 pinHeader-4x1
@@ -3224,6 +3225,28 @@ Ne 0 ""
 Po -1.6002 6.25094
 $EndPAD
 $EndMODULE USB_mini
+$MODULE hole-round
+Po 0 0 0 15 517824C3 00000000 ~~
+Li hole-round
+Sc 0
+AR switch_mx3
+Op 0 0 0
+T0 0 5.08 1.524 1.524 0 0.3048 N I 21 N "HOLE"
+T1 0.508 -4.826 1.524 1.524 0 0.3048 N V 21 N "VAL**"
+$PAD
+Sh "1" C 5.00126 5.00126 0 0 0
+Dr 2.49936 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$SHAPE3D
+Na "cherry_mx1.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE hole-round
 $MODULE pinHeader-2x1
 Po 0 0 0 15 516CA5CE 00000000 ~~
 Li pinHeader-2x1
