@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 21/04/2013 16:00:32
+EESchema Schematic File Version 2  date 22/04/2013 01:50:13
 LIBS:components
 LIBS:Matt3o-CA-cache
 EELAYER 27 0
@@ -7,7 +7,7 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "21 apr 2013"
+Date "22 apr 2013"
 Rev ""
 Comp ""
 Comment1 ""
@@ -2760,17 +2760,11 @@ Wire Wire Line
 Connection ~ 2500 5400
 Wire Wire Line
 	2700 5400 2500 5400
-Wire Wire Line
-	6550 7550 6800 7550
-Wire Wire Line
-	6550 7650 6800 7650
-Wire Wire Line
-	6550 7750 6800 7750
-Text Label 6600 7550 0    60   ~ 0
+Text Label 7050 7550 0    60   ~ 0
 MISO
-Text Label 6600 7650 0    60   ~ 0
+Text Label 7050 7650 0    60   ~ 0
 MOSI
-Text Label 6600 7750 0    60   ~ 0
+Text Label 7050 7750 0    60   ~ 0
 SCK
 Text Label 7900 7550 0    60   ~ 0
 MISO
@@ -2854,11 +2848,11 @@ Wire Wire Line
 	6550 7150 6800 7150
 Text Label 6600 7850 0    60   ~ 0
 ROW0
-Text Label 6900 7750 0    60   ~ 0
+Text Label 6600 7750 0    60   ~ 0
 ROW1
-Text Label 6900 7650 0    60   ~ 0
+Text Label 6600 7650 0    60   ~ 0
 ROW2
-Text Label 6900 7550 0    60   ~ 0
+Text Label 6600 7550 0    60   ~ 0
 ROW3
 Text Label 6600 7150 0    60   ~ 0
 ROW4
@@ -2927,4 +2921,10 @@ Text Label 6600 8350 0    60   ~ 0
 COL13
 Text Label 6600 7450 0    60   ~ 0
 COL14
+Wire Wire Line
+	6550 7750 7250 7750
+Wire Wire Line
+	6550 7650 7250 7650
+Wire Wire Line
+	6550 7550 7250 7550
 $EndSCHEMATC
