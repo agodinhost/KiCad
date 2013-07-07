@@ -1,0 +1,24 @@
+Cmp-Mod V01 Created by PcbNew date = 17/06/2013 11:45:22
+
+BeginCmp
+TimeStamp = /51BE81F6;
+Reference = P1;
+ValeurCmp = CONN_10;
+IdModule  = pinHeader-10x1x;
+EndCmp
+
+BeginCmp
+TimeStamp = /51BE8205;
+Reference = P2;
+ValeurCmp = CONN_10;
+IdModule  = pinHeader-10x1x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /51BE8149;
+Reference = U1;
+ValeurCmp = RN-41;
+IdModule  = RN-41;
+EndCmp
+
+EndListe
