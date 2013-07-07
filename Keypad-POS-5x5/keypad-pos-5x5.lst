@@ -1,0 +1,112 @@
+eeschema (2013-05-31 BZR 4019)-stable  >> Creation date: 07/07/2013 19:55:00
+#Cmp ( order = Reference )
+| D1         D           
+| D2         D           
+| D3         D           
+| D4         D           
+| D5         D           
+| D6         D           
+| D7         D           
+| D8         D           
+| D9         D           
+| D10        D           
+| D11        D           
+| D12        D           
+| D13        D           
+| D14        D           
+| D15        D           
+| D16        D           
+| D17        D           
+| D18        D           
+| D19        D           
+| D20        D           
+| D21        D           
+| D22        D           
+| D23        D           
+| D24        D           
+| D25        D           
+| P1         CONN_5      
+| P2         CONN_6      
+| SW1        Num Lock    
+| SW2        7           
+| SW3        4           
+| SW4        1           
+| SW5        0           
+| SW6        /           
+| SW7        8           
+| SW8        5           
+| SW9        2           
+| SW10       0_2         
+| SW11       *           
+| SW12       9           
+| SW13       6           
+| SW14       3           
+| SW15       .           
+| SW16       -           
+| SW17       +           
+| SW18       +_2         
+| SW19       Enter       
+| SW20       Enter_2     
+| SW21       PgUp        
+| SW22       PgDn        
+| SW23       Home        
+| SW24       End         
+| SW25       Print Screen
+#End Cmp
+
+#Cmp ( order = Value )
+| D            D1        
+| D            D2        
+| D            D3        
+| D            D4        
+| D            D5        
+| D            D6        
+| D            D7        
+| D            D8        
+| D            D9        
+| D            D10       
+| D            D11       
+| D            D12       
+| D            D13       
+| D            D14       
+| D            D15       
+| D            D16       
+| D            D17       
+| D            D18       
+| D            D19       
+| D            D20       
+| D            D21       
+| D            D22       
+| D            D23       
+| D            D24       
+| D            D25       
+| CONN_5       P1        
+| CONN_6       P2        
+| 0            SW5       
+| 1            SW4       
+| 2            SW9       
+| 3            SW14      
+| 4            SW3       
+| 5            SW8       
+| 6            SW13      
+| 7            SW2       
+| 8            SW7       
+| 9            SW12      
+| Num Lock     SW1       
+| /            SW6       
+| 0_2          SW10      
+| *            SW11      
+| .            SW15      
+| -            SW16      
+| +            SW17      
+| +_2          SW18      
+| Enter        SW19      
+| Enter_2      SW20      
+| PgUp         SW21      
+| PgDn         SW22      
+| Home         SW23      
+| End          SW24      
+| Print Screen SW25      
+#End Cmp
+
+#End List
