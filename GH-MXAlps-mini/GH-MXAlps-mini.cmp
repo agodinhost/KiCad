@@ -1,0 +1,703 @@
+Cmp-Mod V01 Created by CvPcb (2013-05-31 BZR 4019)-stable date = 07/07/2013 11:25:29
+
+BeginCmp
+TimeStamp = /516B7451;
+Reference = C1;
+ValeurCmp = 1u;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /516B7460;
+Reference = C2;
+ValeurCmp = 100n;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /516B746F;
+Reference = C3;
+ValeurCmp = 100n;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /516B747E;
+Reference = C4;
+ValeurCmp = 100n;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /516B2CC2;
+Reference = C5;
+ValeurCmp = 22p;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /516B3112;
+Reference = C6;
+ValeurCmp = 1u;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /516B2CB3;
+Reference = C7;
+ValeurCmp = 22p;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /516B15E3;
+Reference = IC1;
+ValeurCmp = ATMEGA32U4;
+IdModule  = TQFP44;
+EndCmp
+
+BeginCmp
+TimeStamp = /516CB781;
+Reference = K1;
+ValeurCmp = AVR_ICSP;
+IdModule  = AVR_ICSP;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E035618;
+Reference = L1;
+ValeurCmp = LED_A;
+IdModule  = pinHeader-2x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /516CA8FA;
+Reference = P1;
+ValeurCmp = CONN_4;
+IdModule  = pinHeader-4x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /51706621;
+Reference = P2;
+ValeurCmp = CONN_4;
+IdModule  = pinHeader-4x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /516CB3B0;
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /516B1611;
+Reference = R2;
+ValeurCmp = 22;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /516B1620;
+Reference = R3;
+ValeurCmp = 22;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /516B36EE;
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E03560E;
+Reference = R5;
+ValeurCmp = 300;
+IdModule  = SMD0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D71186;
+Reference = SW1;
+ValeurCmp = K_ESC;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF12;
+Reference = SW2;
+ValeurCmp = K_` ~;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF93;
+Reference = SW3;
+ValeurCmp = K_TAB;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFA6;
+Reference = SW4;
+ValeurCmp = K_CAPS;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF99;
+Reference = SW5;
+ValeurCmp = K_SHIFT;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB1DDAB;
+Reference = SW6;
+ValeurCmp = K_CTRL;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D71180;
+Reference = SW7;
+ValeurCmp = K_F1;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF15;
+Reference = SW8;
+ValeurCmp = K_1;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF92;
+Reference = SW9;
+ValeurCmp = K_Q;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFA5;
+Reference = SW10;
+ValeurCmp = K_A;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF9B;
+Reference = SW11;
+ValeurCmp = K_Z;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB1DDEB;
+Reference = SW12;
+ValeurCmp = K_ALT;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D7117A;
+Reference = SW13;
+ValeurCmp = K_F2;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF18;
+Reference = SW14;
+ValeurCmp = K_2;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF91;
+Reference = SW15;
+ValeurCmp = K_W;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFA4;
+Reference = SW16;
+ValeurCmp = K_S;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF9C;
+Reference = SW17;
+ValeurCmp = K_X;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /516ABF2A;
+Reference = SW18;
+ValeurCmp = K_SPACE;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D71162;
+Reference = SW19;
+ValeurCmp = K_F3;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF30;
+Reference = SW20;
+ValeurCmp = K_3;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF90;
+Reference = SW21;
+ValeurCmp = K_E;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFA3;
+Reference = SW22;
+ValeurCmp = K_D;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF9D;
+Reference = SW23;
+ValeurCmp = K_C;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D71168;
+Reference = SW24;
+ValeurCmp = K_F4;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF2F;
+Reference = SW25;
+ValeurCmp = K_4;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF8F;
+Reference = SW26;
+ValeurCmp = K_R;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFA2;
+Reference = SW27;
+ValeurCmp = K_F;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF9F;
+Reference = SW28;
+ValeurCmp = K_V;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D7116E;
+Reference = SW29;
+ValeurCmp = K_F5;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF2D;
+Reference = SW30;
+ValeurCmp = K_5;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF8D;
+Reference = SW31;
+ValeurCmp = K_T;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFA0;
+Reference = SW32;
+ValeurCmp = K_G;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFAF;
+Reference = SW33;
+ValeurCmp = K_B;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D71174;
+Reference = SW34;
+ValeurCmp = K_F6;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF2C;
+Reference = SW35;
+ValeurCmp = K_6;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFAD;
+Reference = SW36;
+ValeurCmp = K_Y;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFBB;
+Reference = SW37;
+ValeurCmp = K_H;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFAE;
+Reference = SW38;
+ValeurCmp = K_N;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D7115C;
+Reference = SW39;
+ValeurCmp = K_F7;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF34;
+Reference = SW40;
+ValeurCmp = K_7;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFAB;
+Reference = SW41;
+ValeurCmp = K_U;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFB9;
+Reference = SW42;
+ValeurCmp = K_J;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFB0;
+Reference = SW43;
+ValeurCmp = K_M;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D71156;
+Reference = SW44;
+ValeurCmp = K_F8;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF35;
+Reference = SW45;
+ValeurCmp = K_8;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFAA;
+Reference = SW46;
+ValeurCmp = K_I;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFB8;
+Reference = SW47;
+ValeurCmp = K_K;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFB1;
+Reference = SW48;
+ValeurCmp = K_< ,;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D71150;
+Reference = SW49;
+ValeurCmp = K_F9;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF36;
+Reference = SW50;
+ValeurCmp = K_9;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFA9;
+Reference = SW51;
+ValeurCmp = K_O;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFB7;
+Reference = SW52;
+ValeurCmp = K_L;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFB2;
+Reference = SW53;
+ValeurCmp = K_> .;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB1DEF3;
+Reference = SW54;
+ValeurCmp = K_ALT_R;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D7114A;
+Reference = SW55;
+ValeurCmp = K_F10;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF37;
+Reference = SW56;
+ValeurCmp = K_0;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFA8;
+Reference = SW57;
+ValeurCmp = K_P;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFB6;
+Reference = SW58;
+ValeurCmp = K_; :;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DEE2;
+Reference = SW59;
+ValeurCmp = K_/ ?;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB1DF51;
+Reference = SW60;
+ValeurCmp = K_CTRL_R;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D71144;
+Reference = SW61;
+ValeurCmp = K_F11;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF38;
+Reference = SW62;
+ValeurCmp = K_- _;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF8E;
+Reference = SW63;
+ValeurCmp = K_[ {;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFBA;
+Reference = SW64;
+ValeurCmp = K_' ";
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /5168F1EB;
+Reference = SW65;
+ValeurCmp = K_SHIFT_R;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB1DDD8;
+Reference = SW66;
+ValeurCmp = K_LEFT;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D7113E;
+Reference = SW67;
+ValeurCmp = K_F12;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFA7;
+Reference = SW68;
+ValeurCmp = K_= +;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFAC;
+Reference = SW69;
+ValeurCmp = K_] };
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFB5;
+Reference = SW70;
+ValeurCmp = K_ENTER;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFB3;
+Reference = SW71;
+ValeurCmp = K_UP;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB1DF84;
+Reference = SW72;
+ValeurCmp = K_DOWN;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D710E9;
+Reference = SW73;
+ValeurCmp = K_PrtSc;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E2BFA0F;
+Reference = SW74;
+ValeurCmp = K_Pause;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF9E;
+Reference = SW75;
+ValeurCmp = K_Backspace;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /5168B05A;
+Reference = SW76;
+ValeurCmp = K_\ |;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D71192;
+Reference = SW77;
+ValeurCmp = K_Delete;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /5168B03C;
+Reference = SW78;
+ValeurCmp = K_Home;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /5168B060;
+Reference = SW79;
+ValeurCmp = K_PgUp;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D76670;
+Reference = SW80;
+ValeurCmp = K_PgDn;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /5168B054;
+Reference = SW81;
+ValeurCmp = K_End;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D87B88;
+Reference = SW82;
+ValeurCmp = K_RIGHT;
+IdModule  = MXALPS_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /516B180F;
+Reference = X1;
+ValeurCmp = ASX4;
+IdModule  = ASX3F;
+EndCmp
+
+EndListe

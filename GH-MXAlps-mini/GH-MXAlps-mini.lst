@@ -1,0 +1,208 @@
+eeschema (2013-05-31 BZR 4019)-stable  >> Creation date: 07/07/2013 11:21:55
+#Cmp ( order = Reference )
+| C1         1u          
+| C2         100n        
+| C3         100n        
+| C4         100n        
+| C5         22p         
+| C6         1u          
+| C7         22p         
+| IC1        ATMEGA32U4  
+| K1         AVR_ICSP    
+| L1         LED_A       
+| P1         CONN_4      
+| P2         CONN_4      
+| R1         10k         
+| R2         22          
+| R3         22          
+| R4         10k         
+| R5         300         
+| SW1        K_ESC       
+| SW2        K_` ~       
+| SW3        K_TAB       
+| SW4        K_CAPS      
+| SW5        K_SHIFT     
+| SW6        K_CTRL      
+| SW7        K_F1        
+| SW8        K_1         
+| SW9        K_Q         
+| SW10       K_A         
+| SW11       K_Z         
+| SW12       K_ALT       
+| SW13       K_F2        
+| SW14       K_2         
+| SW15       K_W         
+| SW16       K_S         
+| SW17       K_X         
+| SW18       K_SPACE     
+| SW19       K_F3        
+| SW20       K_3         
+| SW21       K_E         
+| SW22       K_D         
+| SW23       K_C         
+| SW24       K_F4        
+| SW25       K_4         
+| SW26       K_R         
+| SW27       K_F         
+| SW28       K_V         
+| SW29       K_F5        
+| SW30       K_5         
+| SW31       K_T         
+| SW32       K_G         
+| SW33       K_B         
+| SW34       K_F6        
+| SW35       K_6         
+| SW36       K_Y         
+| SW37       K_H         
+| SW38       K_N         
+| SW39       K_F7        
+| SW40       K_7         
+| SW41       K_U         
+| SW42       K_J         
+| SW43       K_M         
+| SW44       K_F8        
+| SW45       K_8         
+| SW46       K_I         
+| SW47       K_K         
+| SW48       K_< ,       
+| SW49       K_F9        
+| SW50       K_9         
+| SW51       K_O         
+| SW52       K_L         
+| SW53       K_> .       
+| SW54       K_ALT_R     
+| SW55       K_F10       
+| SW56       K_0         
+| SW57       K_P         
+| SW58       K_; :       
+| SW59       K_/ ?       
+| SW60       K_CTRL_R    
+| SW61       K_F11       
+| SW62       K_- _       
+| SW63       K_[ {       
+| SW64       K_' "       
+| SW65       K_SHIFT_R   
+| SW66       K_LEFT      
+| SW67       K_F12       
+| SW68       K_= +       
+| SW69       K_] }       
+| SW70       K_ENTER     
+| SW71       K_UP        
+| SW72       K_DOWN      
+| SW73       K_PrtSc     
+| SW74       K_Pause     
+| SW75       K_Backspace 
+| SW76       K_\ |       
+| SW77       K_Delete    
+| SW78       K_Home      
+| SW79       K_PgUp      
+| SW80       K_PgDn      
+| SW81       K_End       
+| SW82       K_RIGHT     
+| X1         ASX4        
+#End Cmp
+
+#Cmp ( order = Value )
+| 22p          C5        
+| 22p          C7        
+| 100n         C2        
+| 100n         C3        
+| 100n         C4        
+| 1u           C1        
+| 1u           C6        
+| ATMEGA32U4   IC1       
+| AVR_ICSP     K1        
+| LED_A        L1        
+| CONN_4       P1        
+| CONN_4       P2        
+| 22           R2        
+| 22           R3        
+| 300          R5        
+| 10k          R1        
+| 10k          R4        
+| K_ESC        SW1       
+| K_` ~        SW2       
+| K_TAB        SW3       
+| K_CAPS       SW4       
+| K_SHIFT      SW5       
+| K_CTRL       SW6       
+| K_F1         SW7       
+| K_1          SW8       
+| K_Q          SW9       
+| K_A          SW10      
+| K_Z          SW11      
+| K_ALT        SW12      
+| K_F2         SW13      
+| K_2          SW14      
+| K_W          SW15      
+| K_S          SW16      
+| K_X          SW17      
+| K_SPACE      SW18      
+| K_F3         SW19      
+| K_3          SW20      
+| K_E          SW21      
+| K_D          SW22      
+| K_C          SW23      
+| K_F4         SW24      
+| K_4          SW25      
+| K_R          SW26      
+| K_F          SW27      
+| K_V          SW28      
+| K_F5         SW29      
+| K_5          SW30      
+| K_T          SW31      
+| K_G          SW32      
+| K_B          SW33      
+| K_F6         SW34      
+| K_6          SW35      
+| K_Y          SW36      
+| K_H          SW37      
+| K_N          SW38      
+| K_F7         SW39      
+| K_7          SW40      
+| K_U          SW41      
+| K_J          SW42      
+| K_M          SW43      
+| K_F8         SW44      
+| K_8          SW45      
+| K_I          SW46      
+| K_K          SW47      
+| K_< ,        SW48      
+| K_F9         SW49      
+| K_9          SW50      
+| K_O          SW51      
+| K_L          SW52      
+| K_> .        SW53      
+| K_ALT_R      SW54      
+| K_F10        SW55      
+| K_0          SW56      
+| K_P          SW57      
+| K_; :        SW58      
+| K_/ ?        SW59      
+| K_CTRL_R     SW60      
+| K_F11        SW61      
+| K_- _        SW62      
+| K_[ {        SW63      
+| K_' "        SW64      
+| K_SHIFT_R    SW65      
+| K_LEFT       SW66      
+| K_F12        SW67      
+| K_= +        SW68      
+| K_] }        SW69      
+| K_ENTER      SW70      
+| K_UP         SW71      
+| K_DOWN       SW72      
+| K_PrtSc      SW73      
+| K_Pause      SW74      
+| K_Backspace  SW75      
+| K_\ |        SW76      
+| K_Delete     SW77      
+| K_Home       SW78      
+| K_PgUp       SW79      
+| K_PgDn       SW80      
+| K_End        SW81      
+| K_RIGHT      SW82      
+| ASX4         X1        
+#End Cmp
+
+#End List
