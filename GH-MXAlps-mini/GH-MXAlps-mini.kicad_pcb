@@ -57,7 +57,7 @@
     (pad_drill 6.096)
     (pad_to_mask_clearance 0.254)
     (aux_axis_origin 0 0)
-    (visible_elements 7FFFB31F)
+    (visible_elements 7FFFFB3F)
     (pcbplotparams
       (layerselection 3178497)
       (usegerberextensions true)
@@ -181,7 +181,7 @@
   )
 
   (module TQFP44 (layer B.Cu) (tedit 516B5699) (tstamp 51DA23AC)
-    (at 190.5 52.3875)
+    (at 166.25 218.5)
     (path /516B15E3)
     (attr smd)
     (fp_text reference IC1 (at -4.064 -8.128) (layer B.SilkS)
@@ -373,7 +373,7 @@
   )
 
   (module SMD0805 (layer B.Cu) (tedit 5169632F) (tstamp 51D97AAB)
-    (at 204.7875 57.15)
+    (at 176.2875 218.65)
     (path /4E03560E)
     (attr smd)
     (fp_text reference R5 (at 0 -1.9177) (layer B.SilkS) hide
@@ -404,7 +404,7 @@
   )
 
   (module SMD0805 (layer B.Cu) (tedit 5169632F) (tstamp 51D97AB7)
-    (at 204.7875 52.3875)
+    (at 176.2875 213.8875)
     (path /516B1611)
     (attr smd)
     (fp_text reference R2 (at 0 -1.9177) (layer B.SilkS) hide
@@ -435,7 +435,7 @@
   )
 
   (module SMD0805 (layer B.Cu) (tedit 5169632F) (tstamp 51D97AC3)
-    (at 204.7875 61.9125)
+    (at 176.2875 223.4125)
     (path /516B1620)
     (attr smd)
     (fp_text reference R3 (at 0 -1.9177) (layer B.SilkS) hide
@@ -466,7 +466,7 @@
   )
 
   (module SMD0805 (layer B.Cu) (tedit 5169632F) (tstamp 51D97ACF)
-    (at 209.55 52.3875)
+    (at 181.05 213.8875)
     (path /516B2CB3)
     (attr smd)
     (fp_text reference C7 (at 0 -1.9177) (layer B.SilkS) hide
@@ -497,7 +497,7 @@
   )
 
   (module SMD0805 (layer B.Cu) (tedit 5169632F) (tstamp 51D97ADB)
-    (at 209.55 57.15)
+    (at 181.05 218.65)
     (path /516B2CC2)
     (attr smd)
     (fp_text reference C5 (at 0 -1.9177) (layer B.SilkS) hide
@@ -528,7 +528,7 @@
   )
 
   (module SMD0805 (layer B.Cu) (tedit 5169632F) (tstamp 51D97AE7)
-    (at 209.55 61.9125)
+    (at 181.05 223.4125)
     (path /516B3112)
     (attr smd)
     (fp_text reference C6 (at 0 -1.9177) (layer B.SilkS) hide
@@ -559,7 +559,7 @@
   )
 
   (module SMD0805 (layer B.Cu) (tedit 5169632F) (tstamp 51D97AF3)
-    (at 214.3125 52.3875)
+    (at 185.8125 213.8875)
     (path /516B36EE)
     (attr smd)
     (fp_text reference R4 (at 0 -1.9177) (layer B.SilkS) hide
@@ -590,7 +590,7 @@
   )
 
   (module SMD0805 (layer B.Cu) (tedit 5169632F) (tstamp 51D97AFF)
-    (at 214.3125 57.15)
+    (at 185.8125 218.65)
     (path /516CB3B0)
     (attr smd)
     (fp_text reference R1 (at 0 -1.9177) (layer B.SilkS) hide
@@ -621,7 +621,7 @@
   )
 
   (module SMD0805 (layer B.Cu) (tedit 5169632F) (tstamp 51D97B0B)
-    (at 214.3125 61.9125)
+    (at 185.8125 223.4125)
     (path /516B747E)
     (attr smd)
     (fp_text reference C4 (at 0 -1.9177) (layer B.SilkS) hide
@@ -652,7 +652,7 @@
   )
 
   (module SMD0805 (layer B.Cu) (tedit 5169632F) (tstamp 51D97B17)
-    (at 219.075 52.3875)
+    (at 190.575 213.8875)
     (path /516B746F)
     (attr smd)
     (fp_text reference C3 (at 0 -1.9177) (layer B.SilkS) hide
@@ -683,7 +683,7 @@
   )
 
   (module SMD0805 (layer B.Cu) (tedit 5169632F) (tstamp 51D97B23)
-    (at 219.075 57.15)
+    (at 190.575 218.65)
     (path /516B7460)
     (attr smd)
     (fp_text reference C2 (at 0 -1.9177) (layer B.SilkS) hide
@@ -714,7 +714,7 @@
   )
 
   (module SMD0805 (layer B.Cu) (tedit 5169632F) (tstamp 51D97B2F)
-    (at 219.075 61.9125)
+    (at 190.575 223.4125)
     (path /516B7451)
     (attr smd)
     (fp_text reference C1 (at 0 -1.9177) (layer B.SilkS) hide
@@ -745,98 +745,98 @@
   )
 
   (module pinHeader-4x1 (layer F.Cu) (tedit 516CA3FC) (tstamp 51D97B3B)
-    (at 233.3625 47.625)
+    (at 194.75 218.5 90)
     (descr "Single rangee contacts 1 x 28 pins")
     (tags CONN)
     (path /51706621)
-    (fp_text reference P2 (at 0 2.032) (layer F.SilkS) hide
+    (fp_text reference P2 (at 0 2.032 90) (layer F.SilkS) hide
       (effects (font (size 0.63246 0.63246) (thickness 0.15748)))
     )
-    (fp_text value CONN_4 (at 0 -2.032) (layer F.SilkS)
+    (fp_text value CONN_4 (at 0 -2.032 90) (layer F.SilkS)
       (effects (font (size 0.63246 0.63246) (thickness 0.15748)))
     )
     (fp_line (start -5.08 1.27) (end 5.08 1.27) (layer F.SilkS) (width 0.15))
     (fp_line (start 5.08 -1.27) (end -5.08 -1.27) (layer F.SilkS) (width 0.15))
     (fp_line (start 5.08 -1.27) (end 5.08 1.27) (layer F.SilkS) (width 0.14986))
     (fp_line (start -5.08 1.27) (end -5.08 -1.27) (layer F.SilkS) (width 0.14986))
-    (pad 1 thru_hole rect (at -3.81 0) (size 1.524 1.524) (drill 1.016)
+    (pad 1 thru_hole rect (at -3.81 0 90) (size 1.524 1.524) (drill 1.016)
       (layers *.Cu *.Mask F.SilkS)
       (net 32 GND)
     )
-    (pad 2 thru_hole circle (at -1.27 0) (size 1.524 1.524) (drill 1.016)
+    (pad 2 thru_hole circle (at -1.27 0 90) (size 1.524 1.524) (drill 1.016)
       (layers *.Cu *.Mask F.SilkS)
       (net 27 /SCL)
     )
-    (pad 4 thru_hole circle (at 3.81 0) (size 1.524 1.524) (drill 1.016)
+    (pad 4 thru_hole circle (at 3.81 0 90) (size 1.524 1.524) (drill 1.016)
       (layers *.Cu *.Mask F.SilkS)
       (net 41 VCC)
     )
-    (pad 3 thru_hole circle (at 1.27 0) (size 1.524 1.524) (drill 1.016)
+    (pad 3 thru_hole circle (at 1.27 0 90) (size 1.524 1.524) (drill 1.016)
       (layers *.Cu *.Mask F.SilkS)
       (net 28 /SDA)
     )
   )
 
   (module pinHeader-4x1 (layer F.Cu) (tedit 516CA3FC) (tstamp 51D97B47)
-    (at 233.3625 52.3875)
+    (at 199.5 218.5 90)
     (descr "Single rangee contacts 1 x 28 pins")
     (tags CONN)
     (path /516CA8FA)
-    (fp_text reference P1 (at 0 2.032) (layer F.SilkS) hide
+    (fp_text reference P1 (at 0 2.032 90) (layer F.SilkS) hide
       (effects (font (size 0.63246 0.63246) (thickness 0.15748)))
     )
-    (fp_text value CONN_4 (at 0 -2.032) (layer F.SilkS)
+    (fp_text value CONN_4 (at 0 -2.032 90) (layer F.SilkS)
       (effects (font (size 0.63246 0.63246) (thickness 0.15748)))
     )
     (fp_line (start -5.08 1.27) (end 5.08 1.27) (layer F.SilkS) (width 0.15))
     (fp_line (start 5.08 -1.27) (end -5.08 -1.27) (layer F.SilkS) (width 0.15))
     (fp_line (start 5.08 -1.27) (end 5.08 1.27) (layer F.SilkS) (width 0.14986))
     (fp_line (start -5.08 1.27) (end -5.08 -1.27) (layer F.SilkS) (width 0.14986))
-    (pad 1 thru_hole rect (at -3.81 0) (size 1.524 1.524) (drill 1.016)
+    (pad 1 thru_hole rect (at -3.81 0 90) (size 1.524 1.524) (drill 1.016)
       (layers *.Cu *.Mask F.SilkS)
       (net 32 GND)
     )
-    (pad 2 thru_hole circle (at -1.27 0) (size 1.524 1.524) (drill 1.016)
+    (pad 2 thru_hole circle (at -1.27 0 90) (size 1.524 1.524) (drill 1.016)
       (layers *.Cu *.Mask F.SilkS)
       (net 16 /D+)
     )
-    (pad 4 thru_hole circle (at 3.81 0) (size 1.524 1.524) (drill 1.016)
+    (pad 4 thru_hole circle (at 3.81 0 90) (size 1.524 1.524) (drill 1.016)
       (layers *.Cu *.Mask F.SilkS)
       (net 41 VCC)
     )
-    (pad 3 thru_hole circle (at 1.27 0) (size 1.524 1.524) (drill 1.016)
+    (pad 3 thru_hole circle (at 1.27 0 90) (size 1.524 1.524) (drill 1.016)
       (layers *.Cu *.Mask F.SilkS)
       (net 17 /D-)
     )
   )
 
   (module pinHeader-2x1 (layer F.Cu) (tedit 516CA5CE) (tstamp 51D97B51)
-    (at 233.3625 57.15)
+    (at 209 218.5 90)
     (descr "Single rangee contacts 1 x 28 pins")
     (tags CONN)
     (path /4E035618)
-    (fp_text reference L1 (at 0 2.032) (layer F.SilkS) hide
+    (fp_text reference L1 (at 0 2.032 90) (layer F.SilkS) hide
       (effects (font (size 0.63246 0.63246) (thickness 0.15748)))
     )
-    (fp_text value LED_A (at 0 -2.032) (layer F.SilkS)
+    (fp_text value LED_A (at 0 -2.032 90) (layer F.SilkS)
       (effects (font (size 0.63246 0.63246) (thickness 0.15748)))
     )
     (fp_line (start 2.54 1.27) (end -2.54 1.27) (layer F.SilkS) (width 0.15))
     (fp_line (start 2.54 -1.27) (end -2.54 -1.27) (layer F.SilkS) (width 0.15))
     (fp_line (start 2.54 -1.27) (end 2.54 1.27) (layer F.SilkS) (width 0.14986))
     (fp_line (start -2.54 1.27) (end -2.54 -1.27) (layer F.SilkS) (width 0.14986))
-    (pad 1 thru_hole rect (at -1.27 0) (size 1.524 1.524) (drill 1.016)
+    (pad 1 thru_hole rect (at -1.27 0 90) (size 1.524 1.524) (drill 1.016)
       (layers *.Cu *.Mask F.SilkS)
       (net 36 N-00000126)
     )
-    (pad 2 thru_hole circle (at 1.27 0) (size 1.524 1.524) (drill 1.016)
+    (pad 2 thru_hole circle (at 1.27 0 90) (size 1.524 1.524) (drill 1.016)
       (layers *.Cu *.Mask F.SilkS)
       (net 32 GND)
     )
   )
 
   (module AVR_ICSP (layer F.Cu) (tedit 516CB6C2) (tstamp 51D98F8F)
-    (at 233.3625 66.675)
+    (at 204.25 218.5)
     (descr "AVR ICSP 6xPin Header")
     (tags CONN)
     (path /516CB781)
@@ -879,7 +879,7 @@
   )
 
   (module ASX3F (layer B.Cu) (tedit 516B6C92) (tstamp 51D98F9B)
-    (at 190.5 66.675)
+    (at 156.75 218.5)
     (path /516B180F)
     (fp_text reference X1 (at -0.635 2.54) (layer B.SilkS)
       (effects (font (size 0.9 0.9) (thickness 0.15)) (justify mirror))
@@ -910,7 +910,7 @@
   )
 
   (module FR_150H (layer F.Cu) (tedit 51697973) (tstamp 51D9B695)
-    (at 57.15 128.5875)
+    (at 57 128.25)
     (fp_text reference FR_150H (at 5.0038 1.1684) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -928,7 +928,7 @@
   )
 
   (module FR_150H (layer F.Cu) (tedit 51697973) (tstamp 51D9B6DA)
-    (at 57.15 185.7375)
+    (at 57 185.25)
     (fp_text reference FR_150H (at 5.0038 1.1684) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -946,7 +946,7 @@
   )
 
   (module FR_150H (layer F.Cu) (tedit 51697973) (tstamp 51D9B6F1)
-    (at 85.725 185.7375)
+    (at 85.5 185.25)
     (fp_text reference FR_150H (at 5.0038 1.1684) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -964,7 +964,7 @@
   )
 
   (module FR_150H (layer F.Cu) (tedit 51697973) (tstamp 51D9B70A)
-    (at 314.325 128.5875)
+    (at 313.5 128.25)
     (fp_text reference FR_150H (at 5.0038 1.1684) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -982,7 +982,7 @@
   )
 
   (module FR_200H (layer F.Cu) (tedit 51697C05) (tstamp 51D9BCCB)
-    (at 304.8 109.5375)
+    (at 304 109.25)
     (fp_text reference FR_200H (at 5.0673 1.2446) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1000,7 +1000,7 @@
   )
 
   (module FR_225H (layer F.Cu) (tedit 51697D0F) (tstamp 51D9C27E)
-    (at 300.0375 147.6375)
+    (at 299.25 147.25)
     (fp_text reference FR_225H (at 5.01396 1.1684) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1018,7 +1018,7 @@
   )
 
   (module FR_225H (layer F.Cu) (tedit 51697D0F) (tstamp 51D9C295)
-    (at 57.15 166.6875)
+    (at 57 166.25)
     (fp_text reference FR_225H (at 5.01396 1.1684) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1036,7 +1036,7 @@
   )
 
   (module FR_175H (layer F.Cu) (tedit 51697A20) (tstamp 51D9C848)
-    (at 57.15 147.6375)
+    (at 57 147.25)
     (fp_text reference FR_175H (at 5.0165 1.1557) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1054,7 +1054,7 @@
   )
 
   (module FR_175H (layer F.Cu) (tedit 51697A20) (tstamp 51D9C85F)
-    (at 290.5125 166.6875)
+    (at 289.75 166.25)
     (fp_text reference FR_175H (at 5.0165 1.1557) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1072,7 +1072,7 @@
   )
 
   (module FR_150H (layer F.Cu) (tedit 51697973) (tstamp 51D9D05D)
-    (at 247.65 185.7375)
+    (at 247 185.25)
     (fp_text reference FR_150H (at 5.0038 1.1684) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1090,7 +1090,7 @@
   )
 
   (module FR_150H (layer F.Cu) (tedit 51697973) (tstamp 51D9D074)
-    (at 276.225 185.7375)
+    (at 275.5 185.25)
     (fp_text reference FR_150H (at 5.0038 1.1684) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1108,7 +1108,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D99131)
-    (at 271.4625 166.6875)
+    (at 270.75 166.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1126,7 +1126,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D990CE)
-    (at 304.8 185.7375)
+    (at 304 185.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1144,7 +1144,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D990A0)
-    (at 280.9875 147.6375)
+    (at 280.25 147.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1162,7 +1162,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D99089)
-    (at 295.275 128.5875)
+    (at 294.5 128.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1180,7 +1180,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D99072)
-    (at 285.75 109.5375)
+    (at 285 109.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1198,7 +1198,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9905B)
-    (at 304.8 90.4875)
+    (at 304 90.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1216,7 +1216,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9D0A2)
-    (at 342.9 185.7375)
+    (at 342 185.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1234,7 +1234,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9D08B)
-    (at 323.85 185.7375)
+    (at 323 185.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1252,7 +1252,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9D046)
-    (at 342.9 166.6875)
+    (at 342 166.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1270,7 +1270,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9D02F)
-    (at 323.85 166.6875)
+    (at 323 166.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1288,7 +1288,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9D018)
-    (at 342.9 147.6375)
+    (at 342 147.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1306,7 +1306,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9D001)
-    (at 342.9 128.5875)
+    (at 342 128.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1324,7 +1324,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9CFD3)
-    (at 252.4125 166.6875)
+    (at 251.75 166.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1342,7 +1342,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9CEA8)
-    (at 161.925 128.5875)
+    (at 161.5 128.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1360,7 +1360,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9CE91)
-    (at 142.875 128.5875)
+    (at 142.5 128.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1378,7 +1378,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9CE7A)
-    (at 123.825 128.5875)
+    (at 123.5 128.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1396,7 +1396,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9CE63)
-    (at 104.775 128.5875)
+    (at 104.5 128.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1414,7 +1414,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9CE4C)
-    (at 85.725 128.5875)
+    (at 85.5 128.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1432,7 +1432,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9ACC9)
-    (at 342.9 90.4875)
+    (at 342 90.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1450,7 +1450,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9ACB2)
-    (at 323.85 90.4875)
+    (at 323 90.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1468,7 +1468,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9AC9B)
-    (at 285.75 90.4875)
+    (at 285 90.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1486,7 +1486,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9AC84)
-    (at 266.7 90.4875)
+    (at 266 90.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1504,7 +1504,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9AC56)
-    (at 247.65 90.4875)
+    (at 247 90.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1522,7 +1522,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9AC3F)
-    (at 228.6 90.4875)
+    (at 228 90.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1540,7 +1540,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9AC28)
-    (at 209.55 90.4875)
+    (at 209 90.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1558,7 +1558,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9AC11)
-    (at 190.5 90.4875)
+    (at 190 90.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1576,7 +1576,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9ABFA)
-    (at 171.45 90.4875)
+    (at 171 90.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1594,7 +1594,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9ABE3)
-    (at 152.4 90.4875)
+    (at 152 90.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1612,7 +1612,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9ABCC)
-    (at 133.35 90.4875)
+    (at 133 90.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1630,7 +1630,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9ABB5)
-    (at 114.3 90.4875)
+    (at 114 90.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1648,7 +1648,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9AB9E)
-    (at 95.25 90.4875)
+    (at 95 90.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1666,7 +1666,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9AB87)
-    (at 76.2 90.4875)
+    (at 76 90.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1684,7 +1684,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98C96) (tstamp 51D9AB70)
-    (at 57.15 90.4875)
+    (at 57 90.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1702,7 +1702,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9ACD5)
-    (at 57.15 109.5375)
+    (at 57 109.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1720,7 +1720,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9ACE0)
-    (at 76.2 109.5375)
+    (at 76 109.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1738,7 +1738,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9ACEB)
-    (at 95.25 109.5375)
+    (at 95 109.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1756,7 +1756,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9ACF6)
-    (at 114.3 109.5375)
+    (at 114 109.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1774,7 +1774,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9AD01)
-    (at 133.35 109.5375)
+    (at 133 109.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1792,7 +1792,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9AD0C)
-    (at 152.4 109.5375)
+    (at 152 109.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1810,7 +1810,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9AD17)
-    (at 171.45 109.5375)
+    (at 171 109.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1828,7 +1828,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9AD22)
-    (at 190.5 109.5375)
+    (at 190 109.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1846,7 +1846,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9AD2D)
-    (at 209.55 109.5375)
+    (at 209 109.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1864,7 +1864,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9AD38)
-    (at 228.6 109.5375)
+    (at 228 109.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1882,7 +1882,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9AD43)
-    (at 247.65 109.5375)
+    (at 247 109.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1900,7 +1900,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9AD4E)
-    (at 266.7 109.5375)
+    (at 266 109.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1918,7 +1918,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9AD6F)
-    (at 342.9 109.5375)
+    (at 342 109.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1936,7 +1936,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9CEB4)
-    (at 180.975 128.5875)
+    (at 180.5 128.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1954,7 +1954,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9CEBF)
-    (at 200.025 128.5875)
+    (at 199.5 128.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1972,7 +1972,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9CECA)
-    (at 219.075 128.5875)
+    (at 218.5 128.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -1990,7 +1990,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9CED5)
-    (at 238.125 128.5875)
+    (at 237.5 128.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -2008,7 +2008,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9CEEC)
-    (at 90.4875 147.6375)
+    (at 90.25 147.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -2026,7 +2026,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9CEF7)
-    (at 109.5375 147.6375)
+    (at 109.25 147.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -2044,7 +2044,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9CF02)
-    (at 128.5875 147.6375)
+    (at 128.25 147.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -2062,7 +2062,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9CF0D)
-    (at 147.6375 147.6375)
+    (at 147.25 147.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -2080,7 +2080,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9CF18)
-    (at 166.6875 147.6375)
+    (at 166.25 147.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -2098,7 +2098,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9CF23)
-    (at 185.7375 147.6375)
+    (at 185.25 147.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -2116,7 +2116,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9CF2E)
-    (at 204.7875 147.6375)
+    (at 204.25 147.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -2134,7 +2134,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9CF39)
-    (at 223.8375 147.6375)
+    (at 223.25 147.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -2152,7 +2152,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9CF44)
-    (at 100.0125 166.6875)
+    (at 99.75 166.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -2170,7 +2170,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9CF4F)
-    (at 119.0625 166.6875)
+    (at 118.75 166.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -2188,7 +2188,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9CF5A)
-    (at 138.1125 166.6875)
+    (at 137.75 166.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -2206,7 +2206,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9CF65)
-    (at 157.1625 166.6875)
+    (at 156.75 166.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -2224,7 +2224,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9CF70)
-    (at 176.2125 166.6875)
+    (at 175.75 166.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -2242,7 +2242,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9CF7B)
-    (at 195.2625 166.6875)
+    (at 194.75 166.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -2260,7 +2260,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9CF86)
-    (at 214.3125 166.6875)
+    (at 213.75 166.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -2278,7 +2278,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9CF91)
-    (at 233.3625 166.6875)
+    (at 232.75 166.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -2296,7 +2296,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9CF9C)
-    (at 257.175 128.5875)
+    (at 256.5 128.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -2314,7 +2314,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9CFA7)
-    (at 276.225 128.5875)
+    (at 275.5 128.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -2332,7 +2332,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9CFB2)
-    (at 242.8875 147.6375)
+    (at 242.25 147.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -2350,7 +2350,7 @@
   )
 
   (module FR_100H (layer F.Cu) (tedit 51D98B84) (tstamp 51D9CFBD)
-    (at 261.9375 147.6375)
+    (at 261.25 147.25)
     (fp_text reference FR_100H (at 4.9022 1.0668) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -2368,7 +2368,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D97B90)
-    (at 180.975 195.2625)
+    (at 180.5 194.75)
     (path /516ABF2A)
     (fp_text reference SW18 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -2478,7 +2478,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D97BCF)
-    (at 219.075 119.0625)
+    (at 218.5 118.75)
     (path /4D92DF35)
     (fp_text reference SW45 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -2588,7 +2588,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D97C0E)
-    (at 307.13 176.16)
+    (at 306.375 175.75)
     (path /5168F1EB)
     (fp_text reference SW65 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -2698,7 +2698,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D97C4D)
-    (at 352.425 176.2125)
+    (at 351.5 175.75)
     (path /5168B054)
     (fp_text reference SW81 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -2808,7 +2808,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D97C8C)
-    (at 280.9875 176.2125)
+    (at 280.25 175.75)
     (path /4D92DEE2)
     (fp_text reference SW59 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -2918,7 +2918,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D97CCB)
-    (at 66.675 119.0625)
+    (at 66.5 118.75)
     (path /4D92DF12)
     (fp_text reference SW2 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -3028,7 +3028,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D97D0A)
-    (at 85.725 119.0625)
+    (at 85.5 118.75)
     (path /4D92DF15)
     (fp_text reference SW8 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -3138,7 +3138,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D97D49)
-    (at 104.775 119.0625)
+    (at 104.5 118.75)
     (path /4D92DF18)
     (fp_text reference SW14 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -3248,7 +3248,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D97D88)
-    (at 180.975 119.0625)
+    (at 180.5 118.75)
     (path /4D92DF2C)
     (fp_text reference SW35 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -3358,7 +3358,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D97DC7)
-    (at 161.925 119.0625)
+    (at 161.5 118.75)
     (path /4D92DF2D)
     (fp_text reference SW30 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -3468,7 +3468,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D97E06)
-    (at 142.875 119.0625)
+    (at 142.5 118.75)
     (path /4D92DF2F)
     (fp_text reference SW25 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -3578,7 +3578,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D97E45)
-    (at 123.825 119.0625)
+    (at 123.5 118.75)
     (path /4D92DF30)
     (fp_text reference SW20 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -3688,7 +3688,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D97E84)
-    (at 200.025 119.0625)
+    (at 199.5 118.75)
     (path /4D92DF34)
     (fp_text reference SW40 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -3798,7 +3798,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D97EC3)
-    (at 238.125 119.0625)
+    (at 237.5 118.75)
     (path /4D92DF36)
     (fp_text reference SW50 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -3908,7 +3908,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D97F02)
-    (at 180.975 100.0125)
+    (at 180.5 99.75)
     (path /51D71174)
     (fp_text reference SW34 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -4018,7 +4018,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D97F41)
-    (at 352.425 195.2625)
+    (at 351.5 194.75)
     (path /51D87B88)
     (fp_text reference SW82 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -4128,7 +4128,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D97F80)
-    (at 352.425 157.1625)
+    (at 351.5 156.75)
     (path /51D76670)
     (fp_text reference SW80 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -4238,7 +4238,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D97FBF)
-    (at 352.425 119.0625)
+    (at 351.5 118.75)
     (path /5168B03C)
     (fp_text reference SW78 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -4348,7 +4348,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D97FFE)
-    (at 328.6125 138.1125)
+    (at 327.75 137.75)
     (path /5168B05A)
     (fp_text reference SW76 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -4458,7 +4458,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D9803D)
-    (at 352.425 138.1125)
+    (at 351.5 137.75)
     (path /5168B060)
     (fp_text reference SW79 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -4568,7 +4568,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D9807C)
-    (at 352.425 100.0125)
+    (at 351.5 99.75)
     (path /51D71192)
     (fp_text reference SW77 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -4678,7 +4678,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D980BB)
-    (at 66.675 100.0125)
+    (at 66.5 99.75)
     (path /51D71186)
     (fp_text reference SW1 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -4788,7 +4788,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D980FA)
-    (at 85.725 100.0125)
+    (at 85.5 99.75)
     (path /51D71180)
     (fp_text reference SW7 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -4898,7 +4898,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98139)
-    (at 104.775 100.0125)
+    (at 104.5 99.75)
     (path /51D7117A)
     (fp_text reference SW13 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -5008,7 +5008,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98178)
-    (at 314.325 100.0125)
+    (at 313.5 99.75)
     (path /51D710E9)
     (fp_text reference SW73 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -5118,7 +5118,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D981B7)
-    (at 161.925 100.0125)
+    (at 161.5 99.75)
     (path /51D7116E)
     (fp_text reference SW29 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -5228,7 +5228,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D981F6)
-    (at 142.875 100.0125)
+    (at 142.5 99.75)
     (path /51D71168)
     (fp_text reference SW24 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -5338,7 +5338,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98235)
-    (at 123.825 100.0125)
+    (at 123.5 99.75)
     (path /51D71162)
     (fp_text reference SW19 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -5448,7 +5448,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98274)
-    (at 200.025 100.0125)
+    (at 199.5 99.75)
     (path /51D7115C)
     (fp_text reference SW39 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -5558,7 +5558,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D982B3)
-    (at 219.075 100.0125)
+    (at 218.5 99.75)
     (path /51D71156)
     (fp_text reference SW44 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -5668,7 +5668,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D982F2)
-    (at 238.125 100.0125)
+    (at 237.5 99.75)
     (path /51D71150)
     (fp_text reference SW49 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -5778,7 +5778,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98331)
-    (at 257.175 100.0125)
+    (at 256.5 99.75)
     (path /51D7114A)
     (fp_text reference SW55 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -5888,7 +5888,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98370)
-    (at 276.225 100.0125)
+    (at 275.5 99.75)
     (path /51D71144)
     (fp_text reference SW61 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -5998,7 +5998,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D983AF)
-    (at 295.275 100.0125)
+    (at 294.5 99.75)
     (path /51D7113E)
     (fp_text reference SW67 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -6108,7 +6108,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D983EE)
-    (at 233.3625 157.1625)
+    (at 232.75 156.75)
     (path /4D92DFB8)
     (fp_text reference SW47 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -6218,7 +6218,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D9842D)
-    (at 333.375 195.2625)
+    (at 332.5 194.75)
     (path /4EB1DF84)
     (fp_text reference SW72 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -6328,7 +6328,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D9846C)
-    (at 209.55 138.1125)
+    (at 209 137.75)
     (path /4D92DFAB)
     (fp_text reference SW41 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -6438,7 +6438,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D984AB)
-    (at 304.8 138.1125)
+    (at 304 137.75)
     (path /4D92DFAC)
     (fp_text reference SW69 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -6548,7 +6548,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D984EA)
-    (at 190.5 138.1125)
+    (at 190 137.75)
     (path /4D92DFAD)
     (fp_text reference SW36 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -6662,7 +6662,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98529)
-    (at 204.7875 176.2125)
+    (at 204.25 175.75)
     (path /4D92DFAE)
     (fp_text reference SW38 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -6772,7 +6772,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98568)
-    (at 185.7375 176.2125)
+    (at 185.25 175.75)
     (path /4D92DFAF)
     (fp_text reference SW33 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -6882,7 +6882,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D985A7)
-    (at 223.8375 176.2125)
+    (at 223.25 175.75)
     (path /4D92DFB0)
     (fp_text reference SW43 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -6992,7 +6992,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D985E6)
-    (at 242.8875 176.2125)
+    (at 242.25 175.75)
     (path /4D92DFB1)
     (fp_text reference SW48 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -7102,7 +7102,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98625)
-    (at 261.9375 176.2125)
+    (at 261.25 175.75)
     (path /4D92DFB2)
     (fp_text reference SW53 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -7212,7 +7212,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98664)
-    (at 321.42 157.11)
+    (at 320.625 156.75)
     (path /4D92DFB5)
     (fp_text reference SW70 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -7326,7 +7326,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D986A3)
-    (at 271.4625 157.1625)
+    (at 270.75 156.75)
     (path /4D92DFB6)
     (fp_text reference SW58 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -7436,7 +7436,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D986E2)
-    (at 252.4125 157.1625)
+    (at 251.75 156.75)
     (path /4D92DFB7)
     (fp_text reference SW52 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -7546,7 +7546,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98721)
-    (at 228.6 138.1125)
+    (at 228 137.75)
     (path /4D92DFAA)
     (fp_text reference SW46 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -7656,7 +7656,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98760)
-    (at 214.3125 157.1625)
+    (at 213.75 156.75)
     (path /4D92DFB9)
     (fp_text reference SW42 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -7766,7 +7766,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D9879F)
-    (at 290.5125 157.1625)
+    (at 289.75 156.75)
     (path /4D92DFBA)
     (fp_text reference SW64 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -7876,7 +7876,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D987DE)
-    (at 195.2625 157.1625)
+    (at 194.75 156.75)
     (path /4D92DFBB)
     (fp_text reference SW37 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -7985,8 +7985,8 @@
     )
   )
 
-  (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D9881D)
-    (at 333.375 176.2125)
+  (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D9DB4C)
+    (at 332.5 175.75)
     (path /4D92DFB3)
     (fp_text reference SW71 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -8096,7 +8096,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D9885C)
-    (at 176.2125 157.1625)
+    (at 175.75 156.75)
     (path /4D92DFA0)
     (fp_text reference SW32 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -8206,7 +8206,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D9889B)
-    (at 333.375 100.0125)
+    (at 332.5 99.75)
     (path /4E2BFA0F)
     (fp_text reference SW74 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -8316,7 +8316,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D988DA)
-    (at 71.4375 195.2625)
+    (at 71.25 194.75)
     (path /4EB1DDAB)
     (fp_text reference SW6 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -8430,7 +8430,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98919)
-    (at 314.325 195.2625)
+    (at 313.5 194.75)
     (path /4EB1DDD8)
     (fp_text reference SW66 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -8540,7 +8540,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98958)
-    (at 100.0125 195.2625)
+    (at 99.75 194.75)
     (path /4EB1DDEB)
     (fp_text reference SW12 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -8649,8 +8649,8 @@
     )
   )
 
-  (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98997)
-    (at 261.9375 195.2625)
+  (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D9DCCB)
+    (at 261.25 194.75)
     (path /4EB1DEF3)
     (fp_text reference SW54 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -8764,7 +8764,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D989D6)
-    (at 290.5125 195.2625)
+    (at 289.75 194.75)
     (path /4EB1DF51)
     (fp_text reference SW60 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -8874,7 +8874,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98A15)
-    (at 147.6375 176.2125)
+    (at 147.25 175.75)
     (path /4D92DF9D)
     (fp_text reference SW23 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -8984,7 +8984,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98A54)
-    (at 257.175 119.0625)
+    (at 256.5 118.75)
     (path /4D92DF37)
     (fp_text reference SW56 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -9094,7 +9094,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98A93)
-    (at 276.225 119.0625)
+    (at 275.5 118.75)
     (path /4D92DF38)
     (fp_text reference SW62 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -9204,7 +9204,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98AD2)
-    (at 171.45 138.1125)
+    (at 171 137.75)
     (path /4D92DF8D)
     (fp_text reference SW31 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -9314,7 +9314,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98B11)
-    (at 285.75 138.1125)
+    (at 285 137.75)
     (path /4D92DF8E)
     (fp_text reference SW63 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -9424,7 +9424,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98B50)
-    (at 152.4 138.1125)
+    (at 152 137.75)
     (path /4D92DF8F)
     (fp_text reference SW26 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -9534,7 +9534,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98B8F)
-    (at 133.35 138.1125)
+    (at 133 137.75)
     (path /4D92DF90)
     (fp_text reference SW21 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -9644,7 +9644,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98BCE)
-    (at 114.3 138.1125)
+    (at 114 137.75)
     (path /4D92DF91)
     (fp_text reference SW15 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -9754,7 +9754,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98C0D)
-    (at 95.25 138.1125)
+    (at 95 137.75)
     (path /4D92DF92)
     (fp_text reference SW9 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -9864,7 +9864,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98C4C)
-    (at 71.4375 138.1125)
+    (at 71.25 137.75)
     (path /4D92DF93)
     (fp_text reference SW3 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -9973,8 +9973,8 @@
     )
   )
 
-  (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98C8B)
-    (at 78.53 176.15)
+  (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D9FDF2)
+    (at 78.375 175.75)
     (path /4D92DF99)
     (fp_text reference SW5 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -10084,7 +10084,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98CCA)
-    (at 109.5375 176.2125)
+    (at 109.25 175.75)
     (path /4D92DF9B)
     (fp_text reference SW11 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -10194,7 +10194,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98D09)
-    (at 128.5875 176.2125)
+    (at 128.25 175.75)
     (path /4D92DF9C)
     (fp_text reference SW17 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -10308,7 +10308,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98D48)
-    (at 247.65 138.1125)
+    (at 247 137.75)
     (path /4D92DFA9)
     (fp_text reference SW51 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -10418,7 +10418,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98D87)
-    (at 323.85 119.0625)
+    (at 323 118.75)
     (path /4D92DF9E)
     (fp_text reference SW75 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -10528,7 +10528,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98DC6)
-    (at 166.6875 176.2125)
+    (at 166.25 175.75)
     (path /4D92DF9F)
     (fp_text reference SW28 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -10642,7 +10642,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98E05)
-    (at 157.1625 157.1625)
+    (at 156.75 156.75)
     (path /4D92DFA2)
     (fp_text reference SW27 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -10752,7 +10752,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98E44)
-    (at 138.1125 157.1625)
+    (at 137.75 156.75)
     (path /4D92DFA3)
     (fp_text reference SW22 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -10862,7 +10862,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98E83)
-    (at 119.0625 157.1625)
+    (at 118.75 156.75)
     (path /4D92DFA4)
     (fp_text reference SW16 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -10972,7 +10972,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98EC2)
-    (at 100.0125 157.1625)
+    (at 99.75 156.75)
     (path /4D92DFA5)
     (fp_text reference SW10 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -11082,7 +11082,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51DA1FC0)
-    (at 73.77 157.11)
+    (at 73.625 156.75)
     (path /4D92DFA6)
     (fp_text reference SW4 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -11192,7 +11192,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98F40)
-    (at 295.275 119.0625)
+    (at 294.5 118.75)
     (path /4D92DFA7)
     (fp_text reference SW68 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -11306,7 +11306,7 @@
   )
 
   (module MXALPS_DIODE (layer F.Cu) (tedit 51D99169) (tstamp 51D98F7F)
-    (at 266.7 138.1125)
+    (at 266 137.75)
     (path /4D92DFA8)
     (fp_text reference SW57 (at -7.8105 0 90) (layer F.SilkS)
       (effects (font (size 1.524 1.778) (thickness 0.254)))
@@ -11416,7 +11416,7 @@
   )
 
   (module FR_700H (layer F.Cu) (tedit 51D9A12E) (tstamp 51DA1C3C)
-    (at 114.3 185.7375)
+    (at 114 185.25)
     (fp_text reference FR_700H (at -61.341 -8.001) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
@@ -11433,10 +11433,10 @@
     (fp_line (start 0.2 18.85) (end 0.2 0.2) (layer Dwgs.User) (width 0.4))
   )
 
-  (gr_text "DO NOT MOVE the components in a different grid \nsetup, IT WILL MESS UP the switches alignment!" (at 47.625 271.4625) (layer Cmts.User)
+  (gr_text "DO NOT MOVE the components in a different grid \nsetup, IT WILL MESS UP the switches alignment!" (at 47.5 19) (layer Cmts.User)
     (effects (font (size 2.032 1.524) (thickness 0.3048)))
   )
-  (gr_text "1u = 19,05mm\n1/2 u = 9,525mm\n1/4 u = 4,7625mm" (at 28.575 19.05) (layer Cmts.User)
+  (gr_text "1u = 19,00mm\n1/2 u = 9,50mm\n1/4 u = 4,75mm" (at 128.25 194.75) (layer Cmts.User)
     (effects (font (size 2.032 1.524) (thickness 0.3048)))
   )
 
